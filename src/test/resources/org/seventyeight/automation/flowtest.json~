@@ -1,0 +1,6 @@
+{
+	tasks:[
+		{name: "display", text: "Hej med dig"},
+		{name: "url", url:"http://www.dr.dk"}
+	]
+}
